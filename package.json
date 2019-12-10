@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-easy-configuration",
+  "version": "1.0.0",
+  "author": "daniel pacurici",
+  "main": "sources/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannypk/eslint-easy-configuration.git"
+  },
+  "keywords": [
+    "eslint",
+    "react",
+    "eslint-react",
+    "eslint-easy",
+    "airbnb"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "10.0.2",
+    "eslint": "6.1.0",
+    "eslint-config-airbnb": "17.1.1",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jest": "22.15.0",
+    "eslint-plugin-json-light": "1.0.3",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-no-async-without-await": "1.2.0",
+    "eslint-plugin-react": "7.14.3"
+  }
+}
