@@ -1,3 +1,7 @@
+## 1.1.0
+### Added
+- No changes, just republish
+
 ## 1.0.0
 
 ### Added
